@@ -10,6 +10,13 @@ namespace EF_Core_API.Domains
         public string Status { get; set; }
         public DateTime OrderDate { get; set; }
 
+        public List<PedidoItem> PedidoItens { get; set; }
+
+        public Pedido()
+        {
+            PedidoItens = new List<PedidoItem>();
+        }
+
 
     }
 }

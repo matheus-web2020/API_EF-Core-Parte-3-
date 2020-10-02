@@ -36,12 +36,18 @@ namespace EF_Core_API.Controllers
                 if (produtos.Count == 0)
                     return NoContent();
 
-                return Ok(produtos);
+                return Ok(new { 
+                   totalCount = produtos.Count,
+                   data =  produtos
+                });
             }
-            catch (Exception ex)
+            catch (Exception)
             {
 
-                return BadRequest(ex.Message);
+                return BadRequest(new {
+                    statusCode = 400,
+                    error = "Ocorreu um erro no EndPoint Get/Produtos, envie uma mensagem para o e-mail@email.com"
+                });;
             }
 
         }
