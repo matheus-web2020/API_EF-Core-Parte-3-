@@ -5,7 +5,11 @@ using System.Threading.Tasks;
 
 namespace EF_Core_API.Domains
 {
-    public class Pedido
+    public class Pedido : BaseDomains
     {
+        public string Status { get; set; }
+        public DateTime OrderDate { get; set; }
+
+
     }
 }

@@ -49,3 +49,13 @@ C:\Users\Matheus\Desktop\Arquivos SQL\API\API_EfCore(3)\EF_Core_API\bin\Debug\ne
 C:\Users\Matheus\Desktop\Arquivos SQL\API\API_EfCore(3)\EF_Core_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Matheus\Desktop\Arquivos SQL\API\API_EfCore(3)\EF_Core_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Matheus\Desktop\Arquivos SQL\API\API_EfCore(3)\EF_Core_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Matheus\Desktop\Arquivos SQL\API\API_EfCore(3)\EF_Core_API\bin\Debug\netcoreapp3.1\EF_Core_API.deps.json
+C:\Users\Matheus\Desktop\Arquivos SQL\API\API_EfCore(3)\EF_Core_API\bin\Debug\netcoreapp3.1\EF_Core_API.runtimeconfig.json
+C:\Users\Matheus\Desktop\Arquivos SQL\API\API_EfCore(3)\EF_Core_API\bin\Debug\netcoreapp3.1\EF_Core_API.runtimeconfig.dev.json
+C:\Users\Matheus\Desktop\Arquivos SQL\API\API_EfCore(3)\EF_Core_API\bin\Debug\netcoreapp3.1\EF_Core_API.dll
+C:\Users\Matheus\Desktop\Arquivos SQL\API\API_EfCore(3)\EF_Core_API\bin\Debug\netcoreapp3.1\EF_Core_API.pdb
+C:\Users\Matheus\Desktop\Arquivos SQL\API\API_EfCore(3)\EF_Core_API\obj\Debug\netcoreapp3.1\EF_Core_API.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Arquivos SQL\API\API_EfCore(3)\EF_Core_API\obj\Debug\netcoreapp3.1\EF_Core_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Matheus\Desktop\Arquivos SQL\API\API_EfCore(3)\EF_Core_API\obj\Debug\netcoreapp3.1\EF_Core_API.dll
+C:\Users\Matheus\Desktop\Arquivos SQL\API\API_EfCore(3)\EF_Core_API\obj\Debug\netcoreapp3.1\EF_Core_API.pdb
+C:\Users\Matheus\Desktop\Arquivos SQL\API\API_EfCore(3)\EF_Core_API\obj\Debug\netcoreapp3.1\EF_Core_API.genruntimeconfig.cache
